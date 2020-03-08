@@ -1,2 +1,2 @@
-# ft_sommelier
+# ft_sommelier 125/100 ✅
 School 42 machine learning project
