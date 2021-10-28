@@ -29,7 +29,5 @@ Project goal: Given the chemical attributes of a wine, classify it as "good" or 
 * Feature scaling
 * Scatterplot matrix
 
----
-
 ![Scatterplot matrix of the red wine dataset](/resources/scatterplot_matrix.jpg)   
 *Scatterplot matrix of the red wine dataset (showing first three features)*
